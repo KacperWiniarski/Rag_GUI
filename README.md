@@ -1,5 +1,5 @@
 # Rag_GUI
-BGK_POC.py to plik, którego uruchomienie pozwoli korzystać z RAG'a przygotowanego w oparciu o dane z witryny BGK, podstrony PROGRAMY.
+POC.py to plik, którego uruchomienie pozwoli korzystać z RAG'a przygotowanego w IBM Cloud.
 
 # Potrzebne do uruchomienia:
 

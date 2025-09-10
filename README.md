@@ -3,7 +3,7 @@ BGK_POC.py to plik, którego uruchomienie pozwoli korzystać z RAG'a przygotowan
 
 # Potrzebne do uruchomienia:
 
--Python 3.13 z pakietami:
+Python 3.13 z pakietami:
 
 *Streamlit
 
